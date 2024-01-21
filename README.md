@@ -1,5 +1,3 @@
-# READ ME
-
 ## Project Title: Game Remake
 
 This project is a remake created for educational purposes. It's a tribute to a game that played a significant role in my childhood. Now I decided to take on the challenge of programming and recreating this game from my past.
