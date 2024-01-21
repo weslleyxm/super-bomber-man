@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875317a3e769da9429b57ee3416957a7, type: 3}
+  m_Name: bomb_idle
+  m_EditorClassIdentifier: 
+  animationName: idle
+  sprites:
+  - {fileID: 697405566, guid: c0badc54d694750489d03cf3aead1b24, type: 3}
+  - {fileID: -873211347, guid: c0badc54d694750489d03cf3aead1b24, type: 3}
+  - {fileID: -114005875, guid: c0badc54d694750489d03cf3aead1b24, type: 3}
+  - {fileID: -873211347, guid: c0badc54d694750489d03cf3aead1b24, type: 3}
