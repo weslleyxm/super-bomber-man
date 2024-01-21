@@ -1,21 +1,19 @@
-# Game Remake Project
+# README
 
-This is a personal project that I undertook for educational purposes – a remake of a game that played a significant role in my childhood. Inspired by nostalgic memories, I decided to delve into the programming aspect and attempt to recreate the game.
+## Project Title: Game Remake
 
-**Disclaimer:** This project is strictly for educational purposes and is not intended for any commercial use. All rights to the original game's artwork and content belong to the respective creators.
+This project is a remake created for educational purposes. It is a tribute to a game that played a significant role in my childhood. Now, I have decided to take on the challenge of programming and recreating this game from my past.
 
-## Project Overview
+### Purpose
+The main objective of this project is purely educational, aiming to enhance my programming skills and gain a deeper understanding of game development. It's important to note that this project is not intended for any commercial use, and it is solely a personal endeavor to learn and grow.
 
-### Objective
-The primary goal of this project is to enhance my programming skills by applying them to a real-world scenario. I aim to grasp a deeper understanding of game development and improve my overall coding proficiency.
+### Development Status
+It's important to note that this project is in its early stages and is solely intended for educational purposes. No commercial use is planned or permitted. All rights to the original game's artwork and content belong to the original creators. The development is an ongoing process, as I dedicate my free time to its progress.
 
-### Game Details
-The game chosen for this remake holds sentimental value to me, making the project even more engaging. By reimagining and implementing the mechanics of the original game, I hope to revive the joy it brought me during my childhood.
+## Disclaimer
+This is a non-commercial project created purely for study and personal development. Any resemblance to the original game is purely coincidental, and this project is not affiliated with or endorsed by the original creators.
 
-## Usage
-If you come across this repository, please note that it is purely a personal endeavor. Feel free to explore the code and provide feedback if you find anything interesting or have suggestions for improvement. However, remember that this project is not intended for commercial use.
+## Acknowledgements
+I would like to express my gratitude to the creators of the original game for providing the inspiration and joy that fueled this endeavor. Additionally, I appreciate the open-source community for the wealth of resources and knowledge that have contributed to this project.
 
-## Acknowledgments
-I would like to express my gratitude to the creators of the original game for crafting an experience that left a lasting impression on me. This project is a tribute to the fond memories I associate with the game.
-
-**Note:** This README serves as documentation for my personal project on GitHub. It may undergo updates as the project progresses. Thank you for taking the time to explore this repository!
+Feel free to explore, provide feedback, or contribute to the development. Let's make this learning journey an enjoyable and collaborative experience!
